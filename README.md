@@ -6,6 +6,7 @@
 -   [CA3](#CA3)
 -   [CA4](#CA4)
 -   [CA5](#CA5)
+-   [CA6](#CA6)
 
 ## CA0
 
@@ -32,3 +33,8 @@ In this project, we will be implementing the Naive Bayes classifier to predict t
 ## CA5
 
 In this project, we will train different classifiers on a diabetes dataset to predict diabetes in individuals. The dataset will be preprocessed and split into training and testing sets. Classifiers such as Decision Tree, K-Nearest Neighbors, Logistic Regression, and Random Forest will be trained on the training data. The performance of each classifier will be evaluated using metrics such as accuracy, precision, recall, and F1-score.
+
+## CA6
+
+In this project, a convolutional neural network (CNN) is implemented and trained to classify images of Arabic handwritten characters.  
+Different activation functions and optimization algorithms are tested to improve the network's performance.
