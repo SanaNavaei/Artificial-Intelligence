@@ -5,6 +5,7 @@
 -   [CA2](#CA2)
 -   [CA3](#CA3)
 -   [CA4](#CA4)
+-   [CA5](#CA5)
 
 ## CA0
 
@@ -27,3 +28,7 @@ In this project, we will be solving a mathematical equality problem using a gene
 ## CA4
 
 In this project, we will be implementing the Naive Bayes classifier to predict the class of news articles. The objective is to classify news articles into different categories based on their content. The Naive Bayes classifier is a probabilistic algorithm that calculates the likelihood of a news article belonging to a particular class based on the occurrence of words or features in the article. By training the classifier on a labeled dataset, we can estimate the probabilities and make predictions on new, unseen news articles.
+
+## CA5
+
+In this project, we will train different classifiers on a diabetes dataset to predict diabetes in individuals. The dataset will be preprocessed and split into training and testing sets. Classifiers such as Decision Tree, K-Nearest Neighbors, Logistic Regression, and Random Forest will be trained on the training data. The performance of each classifier will be evaluated using metrics such as accuracy, precision, recall, and F1-score.
